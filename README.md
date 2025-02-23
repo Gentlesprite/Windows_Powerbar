@@ -1,13 +1,13 @@
 <p align="center">
-  <img width="15%" align="center" src="https://github.com/Gentlesprite/windows-powerbar/blob/main/res/powerbarlogo.png" alt="logo">
+  <img width="15%" align="center" src="https://github.com/Gentlesprite/Windows_Powerbar/blob/main/res/powerbarlogo.png" alt="logo">
 </p>
   <h1 align="center">
-  windows-powerbar
+  Windows_Powerbar
 </h1>
 <p align="center">
 </p>
 <p align="center">
-  A power plan changer tool on windows platform based on Python
+  A power plan changer tool on windows platform based on Python.
 </p>
 <p align="center">
   <a style="text-decoration:none">
@@ -31,13 +31,13 @@
 # 下载地址:
 蓝奏云:[点击跳转下载](https://wwm.lanzn.com/b0foivjib) 密码:5ic7
 
-Github:[点击跳转下载](https://github.com/Gentlesprite/Windows-PowerBar/releases)
+Github:[点击跳转下载](https://github.com/Gentlesprite/Windows_Powerbar/releases)
 
 # 效果图:
 
 B站视频展示:[点击跳转观看](https://www.bilibili.com/video/BV1oy411B7aL/?share_source=copy_web&vd_source=364b06fa5237cb92bdeaf66c7ba13830)
 
-![image](https://github.com/Gentlesprite/windows-powerbar/blob/main/res/show.png)
+![image](https://github.com/Gentlesprite/Windows_Powerbar/blob/main/res/show.png)
 
 # 联系作者:
   Telegram:@Gentlesprite
@@ -46,5 +46,5 @@ B站视频展示:[点击跳转观看](https://www.bilibili.com/video/BV1oy411B7a
 
 # 支持作者:
 
-![image](https://github.com/Gentlesprite/windows-powerbar/blob/main/res/pay.png)
+![image](https://github.com/Gentlesprite/Windows_Powerbar/blob/main/res/pay.png)
 
