@@ -1,10 +1,15 @@
+# ignore folders
 __pycache__/
 venv/
 dist/
 .idea/
 build/
+# ignore files
+*.exe
 *.spec
 Pipfile
 *.lock
 test.py
 wmi_get_plan.py
+# include files
+!upx.exe
